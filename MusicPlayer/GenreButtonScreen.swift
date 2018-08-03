@@ -1,10 +1,3 @@
-//
-//  GenreButtonScreen.swift
-//  MusicPlayer
-//
-//  Created by Дмитрий Гусеница on 29.07.2018.
-//  Copyright © 2018 Дмитрий Гусеница. All rights reserved.
-//
 
 import UIKit
 import MediaPlayer
